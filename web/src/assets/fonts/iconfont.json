@@ -1,0 +1,226 @@
+{
+  "id": "2937037",
+  "name": "xiaomi-mall",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "21730757",
+      "name": "locationfill",
+      "font_class": "locationfill",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "248953",
+      "name": "delete",
+      "font_class": "delete",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "31335",
+      "name": "question",
+      "font_class": "question",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "38743",
+      "name": "round",
+      "font_class": "round",
+      "unicode": "e6d7",
+      "unicode_decimal": 59095
+    },
+    {
+      "icon_id": "141643",
+      "name": "error",
+      "font_class": "error",
+      "unicode": "e727",
+      "unicode_decimal": 59175
+    },
+    {
+      "icon_id": "248923",
+      "name": "back",
+      "font_class": "back",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "248966",
+      "name": "share",
+      "font_class": "share",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "563554",
+      "name": "reduce3",
+      "font_class": "reduce3",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "1222207",
+      "name": "weibo",
+      "font_class": "weibo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1235507",
+      "name": "qq",
+      "font_class": "qq",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "4868915",
+      "name": "people",
+      "font_class": "people",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "6994848",
+      "name": "eye",
+      "font_class": "eye",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "7008886",
+      "name": "add",
+      "font_class": "add",
+      "unicode": "e6df",
+      "unicode_decimal": 59103
+    },
+    {
+      "icon_id": "7275398",
+      "name": "Search",
+      "font_class": "Search",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "7330384",
+      "name": "icon-close",
+      "font_class": "icon-close",
+      "unicode": "e6f8",
+      "unicode_decimal": 59128
+    },
+    {
+      "icon_id": "8759844",
+      "name": "weixin",
+      "font_class": "weixin",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "9810484",
+      "name": "分类",
+      "font_class": "fenlei",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "10196740",
+      "name": "shopping_cart",
+      "font_class": "shopping_cart",
+      "unicode": "e704",
+      "unicode_decimal": 59140
+    },
+    {
+      "icon_id": "11125624",
+      "name": "分类",
+      "font_class": "2",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "13896066",
+      "name": "shopping-cart",
+      "font_class": "shopping-cart",
+      "unicode": "e797",
+      "unicode_decimal": 59287
+    },
+    {
+      "icon_id": "15167593",
+      "name": "reduce",
+      "font_class": "reduce_2",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "15313221",
+      "name": "add",
+      "font_class": "add1",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "15933089",
+      "name": "支付宝",
+      "font_class": "zhifubao",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "16642765",
+      "name": "home",
+      "font_class": "home_1",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "17412239",
+      "name": "Eye Show-1",
+      "font_class": "EyeShow-1",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "18991666",
+      "name": "loading",
+      "font_class": "loading",
+      "unicode": "e85f",
+      "unicode_decimal": 59487
+    },
+    {
+      "icon_id": "21683044",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "21730794",
+      "name": "peoplefill",
+      "font_class": "peoplefill",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "21730805",
+      "name": "people",
+      "font_class": "people1",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "21730840",
+      "name": "roundcheckfill",
+      "font_class": "roundcheckfill",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "22724211",
+      "name": "icon-小米归属",
+      "font_class": "icon-xiaomiguishu",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    }
+  ]
+}
