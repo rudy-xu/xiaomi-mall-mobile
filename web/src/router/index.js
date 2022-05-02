@@ -6,7 +6,7 @@ import MiHome from '@/views/MiHome.vue'
 const routes = [
   {
     path: '/',
-    redirect: '/home'
+    redirect: '/login'
   },
   {
     path: '/home',
