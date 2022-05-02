@@ -1,5 +1,11 @@
 // vue.config.js
 module.exports = {
+  /**
+   * Modify the path of loading file (js, css) in header
+   * if no publicPath: './'  --- /css/xxx.css   /js/xxx.js
+   * has publicPath: './'   --- css/xxx.css   js/xxx.js
+   */
+  publicPath: './',
   css: {
     loaderOptions: {
       // @/ 是 src/ 的别名
